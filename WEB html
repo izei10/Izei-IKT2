@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nire Lehen Web Orria</title>
-    <link rel="stylesheet" href="Itxura.css"> </head>
+    <link rel="stylesheet" href="styles.css">
+</head>
 <body>
 
     <h1>Kaixo, Mundua!</h1>
@@ -22,6 +23,6 @@
 
     <h2>Irudi bat</h2>
     <img src="https://via.placeholder.com/150" alt="Adibideko irudi bat">
-<button class="irudia botoia izei"></button>
+<button class="irudia-botoia izei">/</button>
 </body> 
 </html>
